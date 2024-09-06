@@ -1,0 +1,44 @@
+    body{
+color: rgb(19, 18, 18);
+background: rgb(4, 102, 25);
+margin:0px;
+    }
+    header{
+    border: solid 2px white;
+padding:20px;
+font-size:32px;
+color:black
+ }
+ section{background: rgb(156, 245, 104);
+padding-bottom:80px;
+padding-top:78px;
+display:flex;
+justify-content:center;
+
+ }
+
+.chamada texto{
+   margin-right:5%;
+ }
+
+h1{
+
+    font-size:40px;
+}
+
+p{
+    font-size:20px;
+}
+  
+
+img{height:200px;
+
+
+}
+
+
+
+
+
+
+
